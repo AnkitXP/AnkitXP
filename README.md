@@ -1,6 +1,6 @@
 <div align="left">
 
-### 💫 Hi There, I'm Ankit!
+### 💫 Howdy, I'm Ankit!
 
 - I’m a graduate student at **Texas A&M University, College Station**.
 - Passionate about **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **AI Agents** and **Reinforcement Learning (RL)**.  
